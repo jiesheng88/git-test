@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e78b0f18-0b43-4ea2-b13a-7e83ac4db43a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\Programming tool\Maven3.6\repository" />
+        <option name="mavenHome" value="D:/Program Files/Programming tool/Maven3.6/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\Programming tool\Maven3.6\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="205dpyIn94hFAeFiSrcoxzojXDN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jie\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e78b0f18-0b43-4ea2-b13a-7e83ac4db43a" name="Default Changelist" comment="" />
+      <created>1635338569296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635338569296</updated>
+      <workItem from="1635338573116" duration="534000" />
+      <workItem from="1635339122954" duration="1360000" />
+      <workItem from="1635597399705" duration="554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="54" key="SettingsEditor" timestamp="1635339351133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/-1600.108.1600.860@0.0.1536.824" timestamp="1635339351133" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1635339867658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1600.108.1600.860@0.0.1536.824" timestamp="1635339867658" />
+    <state x="454" y="203" key="git4idea.merge.GitPullDialog" timestamp="1635339749187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824/-1600.108.1600.860@0.0.1536.824" timestamp="1635339749187" />
+    <state x="178" y="107" key="new project wizard" timestamp="1635597955651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824/-1600.108.1600.860@0.0.1536.824" timestamp="1635597955651" />
+  </component>
+</project>
